@@ -12,7 +12,7 @@
 
 ## About Me
 - 🔭 I’m currently working on Offensive Security/Red Team tooling and speech recognition assistive technologies
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently learning .NET Core & Rust
 - 👯 I’m looking to collaborate on anything Red Team related
 - 🤔 I’m looking for help with future repository successors
 - 💬 Ask me about anything
